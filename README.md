@@ -1,6 +1,5 @@
 # alisveris_sepeti_provider
-
-A new Flutter project.
+Provider Paketi Kullanarak Yapılan Basit Alışveriş Sepeti
 
 ## Getting Started
 
